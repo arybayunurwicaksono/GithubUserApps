@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Github User Apps</string>
+    <string name="search_user">Search User</string>
+    <string name="username">Username</string>
+    <string name="name">Name</string>
+    <string name="score">Score</string>
+    <string name="corp">Corp</string>
+    <string name="company">Company</string>
+    <string name="location">Location</string>
+    <string name="followers">Followers :</string>
+    <string name="following">Following :</string>
+    <string name="repository">Repository :</string>
+    <string name="tab_1">Followers</string>
+    <string name="tab_2">Following</string>
+    <string name="dark_mode">Dark Mode</string>
+</resources>

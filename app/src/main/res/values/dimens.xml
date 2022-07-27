@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layer">10dp</dimen>
+    <dimen name="margin_sm">8dp</dimen>
+    <dimen name="margin_md">12dp</dimen>
+    <dimen name="margin_lg">18dp</dimen>
+
+    <dimen name="text_sm">12dp</dimen>
+    <dimen name="text_md">16dp</dimen>
+    <dimen name="text_lg">21dp</dimen>
+    <dimen name="text_xl">28dp</dimen>
+    <dimen name="text_xxl">54dp</dimen>
+
+    <dimen name="image_w_sm">140dp</dimen>
+    <dimen name="image_h_sm">120dp</dimen>
+
+    <dimen name="btn_w">200dp</dimen>
+</resources>
